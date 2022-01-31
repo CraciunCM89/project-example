@@ -10,6 +10,7 @@ public class ProjectTest {
 
     @Test
     public void testMethod() {
+        System.out.println("---------------PULL SUCCESS!! Ole! ----------------");
         System.out.println("DEFINED PROPERTIES WORK!");
         System.out.println("SYSTEM PROPERTIES WORK: " + System.getProperty("value1"));
 
